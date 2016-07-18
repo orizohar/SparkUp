@@ -4,6 +4,8 @@ Resources to get started quickly on Microsoft's cloud platform.
 ## Getting Started
 - [Interactive Azure Map](https://aka.ms/azmap) - Explore this interactive overview of services available on the Azure platform, grouped by type. Click on service names to learn about them and get links to get started.
 - [Azure Learning Paths](https://azure.microsoft.com/en-us/documentation/learning-paths/) - Get started with these learning paths for different Azure Services.
+- [Azure on Microsoft Virtual Academy](https://mva.microsoft.com/training-topics/cloud-app-development) - Virtual courses on cloud development.
+- [Azure on Channel9](https://channel9.msdn.com/Azure) - Video tutorials about Azure services.
 ![Architecture](resources/azmap.png)
 
 ## Working with Azure
@@ -30,12 +32,21 @@ ARM templates are JSON descriptions of ARM deployments which can be used for "In
 - [Template Authoring](https://azure.microsoft.com/en-us/documentation/articles/resource-group-authoring-templates/) - How to author custom templates.
 
 ## Infrastructure Services
+Infrastructure as a service (IaaS) refers to the compute, networking and storage building blocks which allow you to build any kind of cloud solution. IaaS allows you to have maximum control on how you manage virtual machines, network configuration but requires you to invest in attaining robustness, availability and scalability in the cloud.  
 ![Architecture](resources/iaas.png)
 
 ### Compute
-
+- [Virtual Machines Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/virtual-machines/) - Learn about VMs. How to deploy and manage via the portal, PowerShell, ARM templates etc.
+- [Linux VM](https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-quick-create-portal/) - Get started with creating a Linux VM using the Azure portal.
+- [Windows VM](https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-windows-hero-tutorial/) -  Get started with creating a Windows VM using the Azure portal.
+- [VM Extensions](https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-windows-extensions-features/) - Learn about extension to virtual machines such as the Chef, Docker or custom script extensions.
+- [Learn about VM Availability](https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-manage-availability/) - Use best practices and learn about VM availability sets.
+- [VM Scale Sets Overview](https://azure.microsoft.com/en-us/documentation/articles/virtual-machine-scale-sets-overview/) - Learn about deploying and managing VM scale sets.
 ### Networking
+- [Virtual Networks (VNets)](https://azure.microsoft.com/en-us/documentation/articles/virtual-networks-overview/)
+- [Network Security Groups](https://azure.microsoft.com/en-us/documentation/articles/virtual-networks-nsg/)
 ### Storage
+- [Azure Storage Overview](https://azure.microsoft.com/en-us/documentation/articles/storage-introduction/)
 
 ## Platform as a Service (PaaS)
 ### Azure App Service
