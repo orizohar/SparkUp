@@ -42,26 +42,43 @@ Infrastructure as a service (IaaS) refers to the compute, networking and storage
 - [VM Extensions](https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-windows-extensions-features/) - Learn about extension to virtual machines such as the Chef, Docker or custom script extensions.
 - [Learn about VM Availability](https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-manage-availability/) - Use best practices and learn about VM availability sets.
 - [VM Scale Sets Overview](https://azure.microsoft.com/en-us/documentation/articles/virtual-machine-scale-sets-overview/) - Learn about deploying and managing VM scale sets.
+- [Choosing between App Services, Service Fabric and VMs](https://azure.microsoft.com/en-us/documentation/articles/choose-web-site-cloud-service-vm/) - including scenarios and recommendations.
+
 
 ### Networking
-- [Virtual Networks (VNets)](https://azure.microsoft.com/en-us/documentation/articles/virtual-networks-overview/)
+- [Virtual Networks (VNets) Overview](https://azure.microsoft.com/en-us/documentation/articles/virtual-networks-overview/)
 - [Network Security Groups](https://azure.microsoft.com/en-us/documentation/articles/virtual-networks-nsg/)
+- [Load-balancers](https://azure.microsoft.com/en-us/documentation/articles/load-balancer-overview/)
 
 ### Storage
-- [Azure Storage Overview](https://azure.microsoft.com/en-us/documentation/articles/storage-introduction/)
+- [Azure Storage Overview](https://azure.microsoft.com/en-us/documentation/articles/storage-introduction/) - High level overview of storage accounts, blobs, tables and queues.
 
-## Platform as a Service (PaaS)
+## Platform Services
+Platform as a Service (PaaS) resources are Azure services which are built for most cases and allow you to enjoy high availability, scalability and robustness out of the box. Instead of managing VMs directly, let Azure manage the underlying infrastructure and focus on building your applications and solutions. 
 ### Azure App Service
+- [Azure App Service Overview](https://azure.microsoft.com/en-us/documentation/articles/app-service-value-prop-what-is/) - Learn about Web Apps, Mobile Apps, API apps.
+- [Continuous Delivery with Azure App Service](https://azure.microsoft.com/en-us/documentation/articles/web-sites-publish-source-control/) - Publish web apps via a simple git push.
+- [Azure Function Apps](https://azure.microsoft.com/en-us/documentation/articles/functions-overview/) - Learn about running simple code functions in the cloud.
+
 ### Azure SQL
+- [Azure SQL Overview](https://azure.microsoft.com/en-gb/documentation/articles/sql-database-technical-overview/) - Get started with Azure SQL.
+- [Azure SQL vs. SQL on VMs](https://azure.microsoft.com/en-us/documentation/articles/data-management-azure-sql-database-and-sql-server-iaas/) - Learn what scenarios are better for an IaaS vs. PaaS SQL solution.
+
 ### DocumentDB
+- [DocumentDB Overview](https://azure.microsoft.com/en-us/documentation/articles/documentdb-introduction/) - Learn about DocumentDB, a managed NoSQL JSON database.
+- [MongoDB Support](https://azure.microsoft.com/en-us/documentation/articles/documentdb-protocol-mongodb/) - Learn about DocumentDB compatibility with mongoDB clients.
 
 ## Azure Marketplace
+The Azure Marketplace is a huge (+3K) repository of "off the shelf" 3rd party solutions available for quick deployment in the cloud. Some solutions are free, others are "pay-as-you-go" and others are "bring your own license". Many open source solutions are available as well.
+- [Browse Marketplace Solutions](https://azure.microsoft.com/en-us/marketplace/https://azure.microsoft.com/en-us/marketplace/)
 
 ## Cloud Architecture
 - [Cloud Patterns & Practices](https://aka.ms/mspnp) - Best practices for building cloud solutions. Including checklists and design patterns. 
 - [Architecture Blueprints](https://msdn.microsoft.com/architects-blueprints-msdn) - Architectures for an array of different cloud scenarios.
 
 ## Additional Useful Tools & Links
-- [AWS/Azure mapping](https://azure.microsoft.com/en-us/campaigns/azure-vs-aws/mapping/) - 
+- [Azure Services Status](https://azure.microsoft.com/en-us/status/) - Realtime status of service availability across all Azure regions.
 - [Azure Price Calculator]( https://aka.ms/azurecalc) - Easily calculate pricing of Azure Services
 - [Azure Trust Center](https://azure.microsoft.com/en-us/support/trust-center/) - Learn about Azure security, compliance, privacy and transparency. 
+- [Azure Subscription Service Limits](https://azure.microsoft.com/en-us/documentation/articles/azure-subscription-service-limits/) - Learn about Azure subscription and service limits, quotas, and constraints.
+- [AWS/Azure mapping](https://azure.microsoft.com/en-us/campaigns/azure-vs-aws/mapping/) - Map between Azure and AWS services.
