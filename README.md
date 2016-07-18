@@ -68,6 +68,9 @@ Platform as a Service (PaaS) resources are Azure services which are built for mo
 - [DocumentDB Overview](https://azure.microsoft.com/en-us/documentation/articles/documentdb-introduction/) - Learn about DocumentDB, a managed NoSQL JSON database.
 - [MongoDB Support](https://azure.microsoft.com/en-us/documentation/articles/documentdb-protocol-mongodb/) - Learn about DocumentDB compatibility with mongoDB clients.
 
+### Many, Many more PaaS solutions...
+- [Explore additional Azure managed solutions](https://azure.microsoft.com/en-us/documentation/learning-paths/)
+
 ## Azure Marketplace
 The Azure Marketplace is a huge (+3K) repository of "off the shelf" 3rd party solutions available for quick deployment in the cloud. Some solutions are free, others are "pay-as-you-go" and others are "bring your own license". Many open source solutions are available as well.
 - [Browse Marketplace Solutions](https://azure.microsoft.com/en-us/marketplace/https://azure.microsoft.com/en-us/marketplace/)
