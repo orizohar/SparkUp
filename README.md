@@ -42,9 +42,11 @@ Infrastructure as a service (IaaS) refers to the compute, networking and storage
 - [VM Extensions](https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-windows-extensions-features/) - Learn about extension to virtual machines such as the Chef, Docker or custom script extensions.
 - [Learn about VM Availability](https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-manage-availability/) - Use best practices and learn about VM availability sets.
 - [VM Scale Sets Overview](https://azure.microsoft.com/en-us/documentation/articles/virtual-machine-scale-sets-overview/) - Learn about deploying and managing VM scale sets.
+
 ### Networking
 - [Virtual Networks (VNets)](https://azure.microsoft.com/en-us/documentation/articles/virtual-networks-overview/)
 - [Network Security Groups](https://azure.microsoft.com/en-us/documentation/articles/virtual-networks-nsg/)
+
 ### Storage
 - [Azure Storage Overview](https://azure.microsoft.com/en-us/documentation/articles/storage-introduction/)
 
