@@ -2,12 +2,11 @@
 Resources to get started quickly on Microsoft's cloud platform.
 
 ## Getting Started
-![Architecture](resources/azmap.png)
 - [Interactive Azure Map](https://aka.ms/azmap) - Explore this interactive overview of services available on the Azure platform, grouped by type. Click on service names to learn about them and get links to get started.
 - [Azure Learning Paths](https://azure.microsoft.com/en-us/documentation/learning-paths/) - Get started with these learning paths for different Azure Services.
+![Architecture](resources/azmap.png)
 
 ## Working with Azure
-![Architecture](resources/portal.png)
 - [Azure Portal](https://portal.azure.com) - The best way to get started is with the Azure portal, a web based interface for managing Azure.
 - [Azure SDKs & Tools](https://azure.microsoft.com/en-us/downloads/) - SDKs for many common languages such as .NET, Java, Node.js, Python, Ruby and other tools.
 - [Azure PowerShell](https://msdn.microsoft.com/en-us/library/jj156055.aspx) - Work with PowerShell cmdlets to perform Azure operations.
@@ -15,6 +14,7 @@ Resources to get started quickly on Microsoft's cloud platform.
 - [Azure API Reference](https://msdn.microsoft.com/en-us/library/azure/mt420159.aspx) - Reference for Azure REST and .NET APIs.
 - [Azure Resource Explorer](http://resources.azure.com/) - A very useful web application to explore the Azure REST API.
 - [Azure Storage Explorer](http://storageexplorer.com/) - A client application for Linux, Mac or Windows to easily work with storage accounts on Azure. 
+![Architecture](resources/portal.png)
 
 ## Azure Resource Manager (ARM)
 The Azure Resource Manager is at the core of the Azure platform and is used to deploy and manage Azure services. Every resource in Azure managed under ARM can be described and managed in a consistent way. It's very helpful to understand the Azure Resource Manager and how to work with Resource Groups.
