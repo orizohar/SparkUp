@@ -1,3 +1,5 @@
+> ## NOTE: This repo is no longer maintained. Please see [this repo](https://github.com/Azure-for-Startups/Content) instead.
+
 # Azure Quickstart
 Resources to get started quickly on Microsoft's cloud platform.
 
